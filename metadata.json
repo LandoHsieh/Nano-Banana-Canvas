@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Nano Banana Infinite Canvas Ver 2.3.2",
+  "description": "Ver 2.3\n\n- Add undo/redo function\n- Improve \"Add to Canvas\"\n- Add undo/redo function in canvas\n- Add undo/redo function in the drawing pad\n- Hide and show the side menu\n- Add styles in Generate\n- Add Export and Import to save and load the canvas item\n\nAn interactive, infinite canvas application built with Nano Banana. Users can pan and zoom the canvas and place elements on it. The canvas provides a boundless space for creativity and organization.\n\nCopyright: Prompt_case",
+  "requestFramePermissions": []
+}
